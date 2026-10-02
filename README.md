@@ -36,11 +36,11 @@ A interface é uma SPA React organizada em páginas, componentes reutilizáveis,
 
 **Detalhes e recomendações de um filme**
 
-![Página de detalhes do filme](project/src/docs/screenshots/imagem-3.png)
+![Página de detalhes do filme](project/src/docs/screenshots/imagem-4.png)
 
 **Configurações de aparência e conta**
 
-![Página de configurações](project/src/docs/screenshots/imagem-4.png)
+![Página de configurações](project/src/docs/screenshots/imagem-3.png)
 
 **Cadastro de usuário**
 
