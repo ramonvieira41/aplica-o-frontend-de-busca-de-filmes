@@ -28,7 +28,7 @@ A interface é uma SPA React organizada em páginas, componentes reutilizáveis,
 
 **Página inicial**
 
-![Página inicial do Cinephile](project/src/docs/screenshots/imagem-1.png)
+![Página inicial do Cinephile](/src/docs/screenshots/imagem-1.png)
 
 **Exploração por gêneros**
 
