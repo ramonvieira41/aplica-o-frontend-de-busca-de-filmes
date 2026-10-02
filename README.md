@@ -28,23 +28,27 @@ A interface é uma SPA React organizada em páginas, componentes reutilizáveis,
 
 **Página inicial**
 
-![Página inicial do Cinephile](/src/docs/screenshots/imagem-1.png)
+![Página inicial do Cinephile](project/src/docs/screenshots/imagem-1.png)
 
 **Exploração por gêneros**
 
-![Página de gêneros](/src/docs/screenshots/imagem-2.png)
+![Página de gêneros](project/src/docs/screenshots/imagem-2.png)
 
 **Detalhes e recomendações de um filme**
 
-![Página de detalhes do filme](/src/docs/screenshots/imagem-3.png)
+![Página de detalhes do filme](project/src/docs/screenshots/imagem-3.png)
 
 **Configurações de aparência e conta**
 
-![Página de configurações](/src/docs/screenshots/imagem-4.png)
+![Página de configurações](project/src/docs/screenshots/imagem-4.png)
 
 **Cadastro de usuário**
 
-![Página de cadastro](/src/docs/screenshots/imagem-5.png)
+![Página de cadastro](project/src/docs/screenshots/imagem-5.png)
+
+**Busca de Filmes**
+
+![Busca](project/src/docs/screenshots/imagem-6.png)
 
 ## ⚙️ Como executar
 
